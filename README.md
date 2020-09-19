@@ -36,3 +36,5 @@ python3 question.py
 **NOTE - This project is licensed under MIT License 2020. If you find any bugs in the game, please visit [issues column](https://github.com/harshita130602/Quizmasters/issues) to report the issue.** 
 
 ## Enjoy the game!
+
+Made with :heart: by Harshita Upadhyay
