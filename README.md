@@ -4,7 +4,6 @@ Quizmasters is a simple command line quiz-game that offers many domains you can 
 ## Game instructions
 * Check your Python version by typing python --version in terminal/cmd prompt. If the version is python 3.x, then you can continue. 
 * If version is python 2.x, try: 
-`python3 --version. `
 
     Try to update your python version to python3 and then follow instructions given in the  column "**Run the game in your system**".
 * The game will run in the terminal. Answer the first question - whether you want to start the game. Select (a) Start the game or (b) Exit.
